@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "vMqADNLV+2XGVuViuijIE6Q3GHoC4nBFpdEMYTpdp9irinwXEPZptPg0GzzRNJisacDkySaQfAas0NZP/aj+cQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\bryant\\Downloads\\SkImageResizer-master\\SkImageResizer-master\\SkImageResizer\\SkImageResizer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bryant\\.nuget\\packages\\skiasharp\\2.80.2\\skiasharp.2.80.2.nupkg.sha512",
+    "C:\\Users\\bryant\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512"
+  ],
+  "logs": []
+}
